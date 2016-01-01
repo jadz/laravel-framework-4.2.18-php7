@@ -8,7 +8,7 @@
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.4.0",
         "classpreloader/classpreloader": "~1.0.2",
